@@ -1,0 +1,21 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.radar-background {
+	-fx-background-image: url("images/polar_grid_640x640_2.gif");
+	-fx-padding: 10;
+	-fx-background-position: left top, center;
+	-fx-background-repeat: no-repeat;
+	-fx-background-size: cover, auto;
+}
+
+.header {
+	
+}
+
+.footer {
+	
+}
+
+.left-pane {
+	
+}
